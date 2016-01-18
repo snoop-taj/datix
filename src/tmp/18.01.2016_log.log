@@ -1,0 +1,20 @@
+Start time: 18.01.2016 05:35:26
+Exception: Password is less then 6 character for Datix\User::newUser on Line Number 21 in File /Applications/MAMP/htdocs/Sites/DatixTest/src/User.php
+End time: 18.01.2016 05:35:26
+-------------------------------
+Start time: 18.01.2016 05:35:26
+Exception: Password is less then 6 character for Datix\User::changePassword on Line Number 36 in File /Applications/MAMP/htdocs/Sites/DatixTest/src/User.php
+End time: 18.01.2016 05:35:26
+-------------------------------
+Start time: 18.01.2016 05:35:26
+Exception: User doesn't Exist for Datix\User::UserExists on Line Number 65 in File /Applications/MAMP/htdocs/Sites/DatixTest/src/User.php
+End time: 18.01.2016 05:35:26
+-------------------------------
+Start time: 18.01.2016 05:35:26
+Exception: User doesn't Exist for Datix\User::UserExists on Line Number 65 in File /Applications/MAMP/htdocs/Sites/DatixTest/src/User.php
+End time: 18.01.2016 05:35:26
+-------------------------------
+Start time: 18.01.2016 05:35:26
+Exception: User doesn't Exist for Datix\User::UserExists on Line Number 65 in File /Applications/MAMP/htdocs/Sites/DatixTest/src/User.php
+End time: 18.01.2016 05:35:26
+-------------------------------
